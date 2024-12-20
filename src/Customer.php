@@ -2,7 +2,7 @@
 
 namespace JulianoDaffaAdytia\Belajar;
 
-class customer
+class Customer
 {
     private string $name;
 
